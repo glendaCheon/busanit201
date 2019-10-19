@@ -1,6 +1,0 @@
-# GET http://ab9648b1.ngrok.io/users/
-POST http://ab9648b1.ngrok.io/users/
-{
-    "id" : "test",
-    "password" : "1234"
-}
